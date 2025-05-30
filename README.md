@@ -76,6 +76,52 @@ Abaixo estão os diagramas organizados por categoria, com visualizações (`.png
 
 ---
 
+## 📌 Diagramas de Comunicação
+
+- **UC001: Registrar-se**
+
+  ![Diagrama de Comunicação UC001 Registrar-se](./Diagramas%20de%20Comunicação/Registro.png)
+
+- **UC002: Login**
+
+  ![Diagrama de Comunicação UC002 Login](./Diagramas%20de%20Comunicação/Login.png)
+
+- **UC004: Criar Dieta**
+
+  ![Diagrama de Comunicação UC004 Criar Dieta](./Diagramas%20de%20Comunicação/Dieta.png)
+
+- **UC008: Registrar Refeição**
+
+  ![Diagrama de Comunicação UC008 Registrar Refeição](./Diagramas%20de%20Comunicação/Refeição.png)
+
+---
+
+## 📌 Diagramas de Estados
+
+- **Estados do Usuário**
+
+  ![Diagrama de Estados do Usuário](./Diagramas%20de%20Estados/Usuário.png)
+
+- **Estados da Dieta**
+
+  ![Diagrama de Estados da Dieta](./Diagramas%20de%20Estados/Dieta.png)
+
+- **Estados da Refeição**
+
+  ![Diagrama de Estados da Refeição](./Diagramas%20de%20Estados/Refeição.png)
+
+- **Estados da Meta de Macros**
+
+  ![Diagrama de Estados da Meta de Macros](./Diagramas%20de%20Estados/Meta.png)
+
+---
+
+## 📌 Modelo de Dados
+
+![Diagrama do Modelo de Dados](./Modelo%20de%20Dados/ModeloDeDados.png)
+
+---
+
 ## 📄 PDF da Documentação
 
 📎 [`Documentação de Projeto - HappyFit.pdf`](./Documentação%20de%20Projeto%20-%20HappyFit.pdf)
